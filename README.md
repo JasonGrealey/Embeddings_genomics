@@ -1,5 +1,5 @@
 # Embeddings_genomics
-Machine learning embeddings of SNP data
+Machine learning for embeddings and dimension reduction of SNP data
 
 This project is attempting to use feature extraction methods on genomics data. These features are extracted from single nucleotide polymorphisms from the genome. Where there are common varyations (mutations) in the human genome. These features usually heavily outweigh the number of samples (usually orders of magnitude) and so, I am working on feature extraction methods to tackle this problem whilst mainting predicability. 
 
