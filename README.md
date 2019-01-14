@@ -1,4 +1,4 @@
-# Embeddings genomics #
+#  Embeddings genomics  #
 
 This work is being carried out inside the  Cambridge-Baker Systems Genomics Initiative (CBSGI - https://sysgenresearch.org/).
 
@@ -22,7 +22,7 @@ As well as this I am looking at using feature embedding to incorporate as sense 
 
 The outcome that I am working on predicting are molecular traits. for example blood plasma metabolites.  
 
-There are some methods of interest:
+### methods of interest ### 
 1. Denoising Autoencoders for lower dimensional latent variable representations /feature extractions of our SNPs.
 2. PCA or a localised PCA.
 3. UMAP (Uniform manifold Approximation and projection).
