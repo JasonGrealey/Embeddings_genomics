@@ -3,10 +3,7 @@
 This work is being carried out inside the  Cambridge-Baker Systems Genomics Initiative (CBSGI - https://sysgenresearch.org/).
 
 
-The CBSGI is an international research partnership between the University of Cambridge (UK - https://www.cam.ac.uk/) and the Baker Heart & Diabetes Institute (Australia - https://baker.edu.au/) which aims to:
-* Drive the development of next-generation analytics.
-* Uncover biological insights from multi-omic datasets.
-* Build clinically useful tools to predict and prevent disease.
+The CBSGI is an international research partnership between the University of Cambridge (UK - https://www.cam.ac.uk/) and the Baker Heart & Diabetes Institute (Australia - https://baker.edu.au/).
 
 ### Machine Learning Techniques for Genomic Prediction ###
 
